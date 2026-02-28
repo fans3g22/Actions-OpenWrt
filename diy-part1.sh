@@ -26,5 +26,5 @@
 # 格式：echo "配置内容" >> feeds.conf.default
 
 echo "src-git nikki https://github.com/nikkinikki-org/OpenWrt-nikki" >> feeds.conf.default
-echo "src-git kenzo https://github.com/kenzok8/openwrt-packages" >> feeds.conf.default
-echo "src-git small https://github.com/kenzok8/small" >> feeds.conf.default
+#echo "src-git kenzo https://github.com/kenzok8/openwrt-packages" >> feeds.conf.default
+#echo "src-git small https://github.com/kenzok8/small" >> feeds.conf.default
